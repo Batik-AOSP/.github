@@ -27,7 +27,7 @@ We would like to express our gratitude to the following projects and communities
  * [**OMNIROM**](https://github.com/omnirom)
  * [**AOSIP**](https://github.com/aosip)
  * [**Resurrection Remix**](https://github.com/ResurrectionRemix)
-## And the all the custom ROM not mentioned above
+## And all the custom ROM not mentioned above
 
 ## System Requirements
 
